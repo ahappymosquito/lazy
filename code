@@ -6,7 +6,7 @@ int main(void)
     char fipart[4];
     int lapart[4];
 
-    printf("Please enter your seed.(the first letter)\n");
+    printf("Please enter your seed.\n");
     scanf("%c", &seed);
 
     int seed0 = seed;
